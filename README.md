@@ -1,4 +1,4 @@
-# audio-compressor
+# Audio-Compressor
 Audio Compressor using Peak and RMS Detection, written in MATLAB
 
 ## Objective
